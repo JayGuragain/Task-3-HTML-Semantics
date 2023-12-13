@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  margin: 0px 8px;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  min-height: 100vh;
+}
+
+header {
+  text-align: center;
+  color: rgb(188, 62, 62);
+}
+
+img {
+  margin-top: 10px;
+}
+h1 {
+  padding: 24px;
+  text-align: center;
+}
+p {
+  font-size: 24px;
+  padding: 24px;
+}
+strong {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 4px 6px;
+  margin: 14px;
+}
+
+main {
+  text-align: left;
+  display: block;
+  font-size: 22px;
+}
+
+li {
+  margin: 12px;
+}
+
+footer {
+  display: flex;
+  text-align: center;
+}
+
+footer i.fab.fa-github {
+  /* text-align: left; */
+  font-size: 24px;
+  vertical-align: middle;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  background-color: red;
+  padding: 8px;
+  border-radius: 5px;
+  font-weight: bold;
+}
