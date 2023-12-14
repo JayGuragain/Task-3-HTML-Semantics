@@ -3,3 +3,7 @@
 <p>
 This is the repositary for the frontend part of the full stack development bootcamp
 </p>
+
+## Live Preview
+
+Experience our project in action! Check out the [Live Preview](https://classy-stroopwafel-453fba.netlify.app/).
